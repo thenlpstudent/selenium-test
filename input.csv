@@ -1,0 +1,4 @@
+username,password,expected 
+jim,1234,LOGIN_SUCCESS 
+ann,1234,LOGIN_UNSUCCESS
+admin,admin,ADMIN_NOT_ALLOWED
